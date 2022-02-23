@@ -2,7 +2,7 @@
 
 <b>This project is implemented as a part of Deloitte Java Developer assignment.</b> <br><br>
 It is a web application which is built using Spring Boot Framework and H2 database (in memory). <b>The war file is located in the target directory and the name is "online-todo-list-0.0.1-SNAPSHOT.war".</b> <br>
-Path: 
+Path: https://github.com/kannan-kumaran/Kannan-Todo/blob/main/target/online-todo-list-0.0.1-SNAPSHOT.war
 
 <br>
 
