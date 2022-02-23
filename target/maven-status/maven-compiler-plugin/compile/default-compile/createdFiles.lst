@@ -1,0 +1,3 @@
+com\online\todolist\model\User$UserBuilder.class
+com\online\todolist\model\Task$TaskBuilder.class
+com\online\todolist\model\Role$RoleBuilder.class

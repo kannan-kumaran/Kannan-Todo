@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ADMIN
+Build-Jdk: 17
+Implementation-Title: online-todo-list
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.online.todolist
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/online-todo-list
+Created-By: Maven Integration for Eclipse
+
